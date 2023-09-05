@@ -1,2 +1,3 @@
 let app = 23
-let colores = [1,2,4,2,4,];
+let colores = [44, 222, 0];
+let autos = ["Paris", "Argentina"]
